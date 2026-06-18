@@ -98,8 +98,8 @@ A arquitetura do projeto separa claramente os conceitos entre cliente (React) e 
 
 A aplicação está hospedada e pode ser acessada em tempo real:
 
-**Backend & API (Render):** [https://booksync-api.onrender.com](https://booksync-api.onrender.com)
-**[Acessar o BookSync](https://desenvolvimento-de-formularios-de-c.vercel.app)**
+* **Frontend (Vercel):** [https://desenvolvimento-de-formularios-de-c.vercel.app](https://desenvolvimento-de-formularios-de-c.vercel.app)
+* **Backend & API (Render):** [https://booksync-api.onrender.com](https://booksync-api.onrender.com)
 
 > **⚠️ AVISO IMPORTANTE:** O serviço gratuito do Render utiliza Discos Efêmeros. Isto significa que a qualquer momento que a máquina for reiniciada (por inatividade ou atualização no provedor), o ficheiro `database.sqlite` será apagado e regressará ao seu estado inicial. Contas e livros adicionados na nuvem podem sumir periodicamente.
 
